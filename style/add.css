@@ -1,0 +1,14 @@
+.logoWarp .left{
+    float: right;
+    height: 100%;
+    width: 50px;
+    text-align: center;
+    line-height: 50px;
+}
+.logoWarp .right{
+    float: right;
+    height: 100%;
+    width: 50px;
+    text-align: center;
+    line-height: 50px;
+}
